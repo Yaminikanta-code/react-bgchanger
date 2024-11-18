@@ -1,5 +1,11 @@
 import { useState } from "react";
 
+/**
+ * App component. This component renders a simple UI with buttons to change
+ * the background color of the page.
+ *
+ * @return {ReactElement} The rendered component.
+ */
 function App() {
   const [color, setColor] = useState();
 
