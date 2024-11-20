@@ -1,8 +1,16 @@
-# React + Vite
+# Background Changer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application that allows users to change the background color of the app by toggling switches. The app demonstrates the use of the `useState` hook to manage state.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Toggle switches to change the background color.
+- Smooth and seamless color transitions.
+- Easy-to-understand and responsive user interface.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/background-changer-app.git
